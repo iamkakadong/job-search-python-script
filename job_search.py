@@ -41,6 +41,7 @@ def gen_job_lists(search_url):
     
 
 if __name__ == "__main__":
+    # To Use: Update your job search requirements here
     requirements = {
         FILTER.COMPANY: ['10679415', '22806', '27921', '35552179', '598754', '20681', '6607084'],
         FILTER.EXPERIENCE: [EXPERIENCE.ENTRY_LEVEL],
